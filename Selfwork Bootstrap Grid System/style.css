@@ -1,0 +1,49 @@
+*{
+    font-family: "Urbanist", sans-serif;
+}
+
+nav{
+    background-color: yellow;
+    height: 80px;
+}
+
+header{
+    background-image: url(./media/rustici.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.titolo{
+    color: red;
+    background-color: rgba(255, 255, 0, 0.4);
+    letter-spacing: 10px;
+    font-size: 5vh;
+}
+
+.img-ricetta{
+    width: 200px;
+}
+
+.bg-img{
+    background-color: rgb(255, 255, 143);
+
+}
+
+p{
+    text-align: justify;
+  }
+
+  h3{
+    padding-top: 5px;
+  }
+
+  button{
+    background-image: linear-gradient(60deg, yellow,red);
+  }
+
+  button:hover{
+    background-image: linear-gradient(60deg,red, yellow);
+  }
+
+/*<img src="https://cdn.pixabay.com/photo/2016/01/19/09/39/italy-1148162_1280.png" alt="sicilia e trinacria">*/
+
